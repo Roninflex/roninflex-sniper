@@ -1,10 +1,10 @@
-Download Castiyel Vanity Sniper.zip
+Download Roninflex Sniper.zip
 
 Extract ZIP
 
 Open Install.bat to install the modules
 
-Fill in the requires spaces in Castiyel Vanity Sniper e.g Token, Webhook, etc.
+Fill in the requires spaces in Ronin Flex Sniper e.g Token, Webhook, etc.
 
 Install Python 3.12 AND ADD TO PATH
 
